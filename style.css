@@ -18,13 +18,13 @@ body,html {
 	background-color: #FFF;
 }
 header {
-    background: #00429B;
+    background: #C1E1D2;
     padding: 20px 30px;
     max-width: 940px;
     margin: auto;
 }
 nav {
-    display: inline-block;
+    display: inline;
 }
 nav ul li a {
     background: #EEF;
@@ -74,7 +74,7 @@ main section {
 	
 }
 footer {
-	background: #00429B;
+	background: #C1E1D2;
 	max-width: 1000px;
 	margin: auto;
 	clear: both;
@@ -88,7 +88,7 @@ address {
 }
 aside > div {
 	margin: 10px auto;
-	background: #00429B;
+	background: #C1E1D2;
 	min-height: 100px;
 }
 #logo {
