@@ -1,3 +1,1 @@
-# The largest heading
-## The second largest heading
-###### The smallest heading
+#This is Duen Ng's Platform
